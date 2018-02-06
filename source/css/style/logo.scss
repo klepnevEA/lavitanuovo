@@ -1,0 +1,42 @@
+
+.logo {
+    position: absolute;
+    display: inline-block;
+    top: 49px;
+    left: -10px;
+    padding: 12.5px 21.5px 12.5px 60px;
+    background-color: #fff;
+    
+    @include phones() { 
+        left: 0px;
+        top: 19px;
+        padding: 12.5px 7.5px 12.5px 20px;
+    } 
+
+    &__img {
+        width: 124px;
+        height: 36px;
+        fill: $blue;
+        
+        @include phones() { 
+            width: 80px;
+            height: 18px;
+        }
+    }
+
+    &:after {
+        content: ''; 
+        position: absolute;
+        left: 100%;
+        top: 0;
+        height: 100%;
+        border: 32px solid transparent;
+        border-left: 30px solid #fff;
+        box-sizing:border-box;
+        
+        @include phones() { 
+            border: 22px solid transparent;
+            border-left: 20px solid #fff;
+        }
+    }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="18px" viewBox="0 0 15 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Play Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-275.000000, -450.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="Hero" transform="translate(0.000000, 64.000000)">
+                <g id="Play-Button" transform="translate(251.000000, 375.000000)">
+                    <path d="M26,14.5325 L35.11275,20 L26,25.4675 L26,14.5325 L26,14.5325 Z M24,11 L24,29 L39,20 L24,11 Z" id="Play-Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="43px" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Facebook Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-1066.000000, -2018.000000)">
+            <g id="Footer" transform="translate(0.000000, 1730.000000)">
+                <g id="Social" transform="translate(1067.000000, 289.000000)">
+                    <g id="Facebook-Icon">
+                        <rect id="Back-3" stroke="#03A9F4" stroke-width="2" x="0" y="0" width="41" height="41"></rect>
+                        <path d="M22.216,28 L19.074,28 L19.074,21.036 L17,21.036 L17,18.343 L19.124,18.343 L19.124,15.737 C19.1612879,14.9528809 19.5164911,14.2178133 20.1076767,13.7013515 C20.6988622,13.1848897 21.4749775,12.9316334 22.257,13 L25,13 L25,15.584 L23.138,15.584 C22.287,15.584 22.27,15.684 22.27,16.355 L22.264,18.342 L25,18.342 L24.7,21.036 L22.22,21.036 L22.22,28 L22.22,28 L22.216,28 Z" id="Facebook" fill="#03A9F4"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

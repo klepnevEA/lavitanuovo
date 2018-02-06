@@ -1,0 +1,33 @@
+.btn {
+	width: 100%;	
+	color: #FFF;
+	font-family: 'Roboto', sans-serif;
+	font-size: rem(14px);
+	font-weight: 500;
+	line-height: rem(16px);
+	text-align: center;
+	text-transform: uppercase;
+	cursor: pointer;
+	padding: 7px;
+    border-radius: 100px;
+    border: 2px solid $blue;
+    background-color: $blue;
+    transition: 0.3s;
+    
+    &:hover {
+    	background-color: lighten($blue, 5%);
+    	border-color:  lighten($blue, 5%);
+    }
+    
+    &_white {
+		background-color:#fff;
+		color: $blue;
+		
+		&:hover {
+	    	background-color: darken(#fff, 5%);
+	    	border-color:  lighten($blue, 5%);
+	    }
+    }	
+    
+}
+

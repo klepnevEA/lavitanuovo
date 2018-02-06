@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Explore Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-1202.000000, -25.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="Header">
+                <g id="Explore-Button" transform="translate(1189.000000, 17.000000)">
+                    <path d="M20,8 C16.1397333,8 13,11.1397333 13,15 C13,18.8602667 16.1397333,22 20,22 C23.8602667,22 27,18.8602667 27,15 C27,11.1397333 23.8602667,8 20,8 Z M20,21 C16.6916923,21 14,18.3083077 14,15 C14,11.6916923 16.6916923,9 20,9 C23.3083077,9 26,11.6916923 26,15 C26,18.3083077 23.3083077,21 20,21 Z M16,20 L22.2997995,17.2997995 L25,11 L18.7002005,13.7002005 L16,20 Z M19.2857143,14 L21,15.7142857 L18,17 L19.2857143,14 Z M20.7133248,16 L19,14.2861262 L22,13 L20.7133248,16 Z" id="Explore-Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

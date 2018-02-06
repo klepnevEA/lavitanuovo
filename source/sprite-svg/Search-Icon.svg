@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Search Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-1333.000000, -23.000000)" fill="#03A9F4">
+            <g id="Header">
+                <path d="M1345.502,29.491 L1344.708,29.491 L1344.432,29.765 C1345.407,30.902 1346,32.376 1346,33.991 C1346,37.581 1343.09,40.491 1339.5,40.491 C1335.91,40.491 1333,37.581 1333,33.991 C1333,30.401 1335.91,27.491 1339.5,27.491 C1341.115,27.491 1342.588,28.083 1343.725,29.057 L1344.001,28.783 L1344.001,27.991 L1348.999,23 L1350.49,24.491 L1345.502,29.491 L1345.502,29.491 Z M1339.5,29.491 C1337.014,29.491 1335,31.505 1335,33.991 C1335,36.476 1337.014,38.491 1339.5,38.491 C1341.985,38.491 1344,36.476 1344,33.991 C1344,31.505 1341.985,29.491 1339.5,29.491 L1339.5,29.491 Z" id="Search-Icon" transform="translate(1341.745000, 31.745500) scale(1, -1) translate(-1341.745000, -31.745500) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

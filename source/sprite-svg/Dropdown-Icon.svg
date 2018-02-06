@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Dropdown Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dropdown-button" transform="translate(-147.000000, -13.000000)" fill="#03A9F4">
+            <g id="Dropdown-Icon">
+                <path d="M147,22 L157,22 L152,27 L147,22 Z M157,18 L147,18 L152,13 L157,18 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

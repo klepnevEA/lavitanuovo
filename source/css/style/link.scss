@@ -1,0 +1,17 @@
+.link {
+	color: $blue;
+	font-family: 'Roboto', sans-serif;
+	font-size: rem(12px);
+	font-weight: 500;
+	transition: 0.3s;
+
+	&:hover {
+		color: lighten($blue, 10%);
+	}
+	
+	&_right {
+		display: inline-block;	
+		width: 100%;	
+		text-align: right;	
+	}
+}

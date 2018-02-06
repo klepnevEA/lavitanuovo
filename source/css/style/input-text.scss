@@ -1,0 +1,29 @@
+.input-text {
+	width: 100%;
+	padding: 11px 19px;
+	color: $black;
+	font-family: Roboto;
+	font-size: rem(14px);
+	line-height: rem(16px);
+	border: 1px solid $gray-light;	
+	border-radius: 3px;	
+	background-color: #FFF;
+
+
+	::-webkit-input-placeholder { 
+		color: $black;
+	}
+	::-moz-placeholder { 
+		color: $black;
+	}
+	:-ms-input-placeholder {
+		color: $black;
+	}
+	:-moz-placeholder { 
+		color: $black;
+	}
+
+	&_alert {
+		border-color: $red;
+	}
+}

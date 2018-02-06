@@ -1,0 +1,61 @@
+.label {
+	display: flex;
+	align-items: flex-start;
+	cursor: pointer;
+		
+
+
+	&__checkbox {
+		position: absolute;	
+		visibility: hidden;	
+
+		&:checked {
+			& + .label__btn {
+				background-color: $blue;
+				border: 1px solid $blue;
+				
+				&:after  {
+					opacity: 1;
+				}
+			}
+		}
+	}
+
+	&__btn {
+		flex: 0 0 18px;
+		display: inline-block;
+		position: relative;
+		margin-right: 9px;
+		padding: 0;
+		width: 18px;
+		height: 18px;
+		border: 2px solid $gray-light;
+       	border-radius: 2px;
+			
+		
+		&:after {
+			content: '';
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			width: 80%;
+			height: 80%;
+			opacity: 0;
+			background-size: 	100%;
+			background-repeat: no-repeat;
+			background-position: center;
+			background-image: url(../img/Icons/check.svg);
+			transition: 0.3s;
+		}	
+	}
+
+	&__text {
+		color: $gray;
+		font-family: Roboto;
+		font-size: rem(12px);
+		font-weight: 500;
+		text-align: left;
+	}
+
+}

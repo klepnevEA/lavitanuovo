@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="17px" viewBox="0 0 21 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Heart Filled Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-1136.000000, -935.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="Card---BIG-2" transform="translate(850.000000, 723.000000)">
+                <g id="Heart-Filled-Button" transform="translate(276.000000, 199.000000)">
+                    <path d="M28.8528097,14.3577957 C26.8808363,12.5474014 23.6834559,12.5474014 21.7114825,14.3577957 L20.3728522,15.5855615 L19.0330425,14.3577957 C17.061069,12.5474014 13.864868,12.5474014 11.8928946,14.3577957 C9.67442447,16.3934573 9.67442447,19.6875493 11.8928946,21.7232109 L20.3728522,29.5061372 L28.8528097,21.7232109 C31.0701005,19.6875493 31.0701005,16.3922779 28.8528097,14.3577957 Z" id="Heart-Filled-Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
